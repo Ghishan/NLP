@@ -34,7 +34,7 @@ To make your learning journey more interactive, I have provided Jupyter notebook
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/Nlp.git
+   git clone https://github.com/Ghishan/NLP.git
    ```
 
 2. **Explore the Content:** Take some time to explore the repository's content and directories. Begin with the introductory materials and progress to more advanced topics.
